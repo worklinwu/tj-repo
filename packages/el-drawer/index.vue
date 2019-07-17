@@ -57,6 +57,7 @@ import Popup from 'element-ui/src/utils/popup'
 // 用于 当 ElDropdownMenu/ElSelectDropdown 处于展开状态时候, 在弹框时隐藏
 import emitter from 'element-ui/src/mixins/emitter'
 
+
 export default {
   name: 'ElDrawer', // 命名规则沿用 Element 的规范
   mixins: [Popup, emitter],

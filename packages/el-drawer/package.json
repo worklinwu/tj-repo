@@ -1,5 +1,6 @@
 {
-  "name": "el-drawer",
+  "name": "@tjcz/el-drawer",
+  "private": true,
   "version": "0.0.5",
   "description": "天健财判采集平台",
   "main": "index.js",
@@ -8,5 +9,5 @@
   "dependencies": {
     "element-ui": "^2.10.1"
   },
-  "gitHead": "e0fb32ec5fae6b1b1ec17721caba3f24fa00895f"
+  "gitHead": "513cc90610520e1d09290b3ec8715538e609ba6e"
 }
