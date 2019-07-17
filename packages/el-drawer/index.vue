@@ -58,7 +58,7 @@ import Popup from 'element-ui/src/utils/popup'
 import emitter from 'element-ui/src/mixins/emitter'
 
 export default {
-  name: 'ElDrawer', // 命名规则沿用 Element 的规范
+  name: 'ElDrawer', // 命名规则沿用 Element 的
   mixins: [Popup, emitter],
   props: {
     // 标题
