@@ -1,0 +1,12 @@
+{
+  "name": "@tjcz/el-select-remote",
+  "private": true,
+  "version": "0.0.1",
+  "description": "基于ElementUI的Select组件改造, 支持远程获取数据和翻页",
+  "main": "index.js",
+  "author": "linwu",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^2.10.1"
+  }
+}

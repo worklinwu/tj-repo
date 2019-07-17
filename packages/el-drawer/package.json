@@ -2,7 +2,7 @@
   "name": "@tjcz/el-drawer",
   "private": true,
   "version": "0.0.7",
-  "description": "天健财判采集平台",
+  "description": "基于ElementUI开发的抽屉组件",
   "main": "index.js",
   "author": "linwu",
   "license": "MIT",
