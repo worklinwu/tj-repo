@@ -1,7 +1,7 @@
 {
   "name": "@tjcz/el-drawer",
   "private": true,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "天健财判采集平台",
   "main": "index.js",
   "author": "linwu",
