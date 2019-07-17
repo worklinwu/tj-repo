@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "linwu",
   "license": "MIT",
+  "private": true,
   "dependencies": {
     "element-ui": "^2.10.1"
   }

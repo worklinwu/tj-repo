@@ -1,7 +1,15 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish"
+  },
   "devDependencies": {
     "lerna": "^3.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worklinwu/tj-repo.git"
   }
 }
